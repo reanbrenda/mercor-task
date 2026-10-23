@@ -1,0 +1,201 @@
+school_id,name,lat,lon,admin1
+SCH-0001,Ashford Primary School,2.173954,35.459135,Eastern Province
+SCH-0002,Dunham Primary School,0.814433,33.754261,Central Province
+SCH-0003,Lakeside Secondary School,0.551206,39.228157,Highland Region
+SCH-0004,Summit Academy Learning Center,2.784874,33.55199,Eastern Province
+SCH-0005,Camden Academy Learning Center,-1.999158,35.22251,Coastal Region
+SCH-0006,Maple Primary Institute,-3.629553,40.279955,Southern Province
+SCH-0007,Foxglove Primary Institute,0.326053,41.284926,Highland Region
+SCH-0008,Oakwood Prep Learning Center,2.964642,38.448158,Coastal Region
+SCH-0009,Stonebridge Secondary School,-4.087581,35.323186,Southern Province
+SCH-0010,Oakwood Secondary School,-1.078864,37.127282,Coastal Region
+SCH-0011,Pinecrest Community Learning Center,-2.614437,35.635823,Central Province
+SCH-0012,Willow Day Campus,0.307259,35.458487,River Region
+SCH-0013,Greenfield Community Campus,1.661528,40.242815,Northern Province
+SCH-0014,Summit Primary Learning Center,-0.889517,34.029509,Coastal Region
+SCH-0015,Lakeside Day Institute,-0.939313,40.816381,River Region
+SCH-0016,Cedar Community Campus,-2.280352,37.990945,Southern Province
+SCH-0017,Dunham Prep Institute,3.580406,36.695204,Western Province
+SCH-0018,Cedar Prep Institute,-3.681815,33.876931,Central Province
+SCH-0019,Cedar Day Campus,2.628714,36.87728,Central Province
+SCH-0020,Greenfield Academy Institute,0.262029,41.268627,Northern Province
+SCH-0021,Brighton Day School,1.635393,37.795763,Southern Province
+SCH-0022,Elmwood Day Learning Center,-3.49603,36.978122,River Region
+SCH-0023,Riverside Day Learning Center,4.246993,39.595698,Central Province
+SCH-0024,Harbor Day Learning Center,3.075024,37.561303,Western Province
+SCH-0025,Cedar Community Campus,0.354411,39.729012,Northern Province
+SCH-0026,Willow Community Institute,-4.324709,40.932789,Southern Province
+SCH-0027,Summit Primary Campus,3.402086,41.075596,Central Province
+SCH-0028,Dunham Academy School,4.30186,37.761649,Eastern Province
+SCH-0029,Cedar Day Institute,4.021638,34.821016,Highland Region
+SCH-0030,Lakeside Prep Campus,1.916541,36.691938,Coastal Region
+SCH-0031,Northgate Prep Institute,-3.410962,35.297579,Coastal Region
+SCH-0032,Riverside Prep Campus,0.795961,33.557527,Northern Province
+SCH-0033,Summit Primary School,3.236719,34.066859,Western Province
+SCH-0034,Valley Day Institute,-2.571869,34.558495,River Region
+SCH-0035,Summit Academy Institute,-2.786311,34.275447,Highland Region
+SCH-0036,Fairview Academy Institute,-0.296778,39.332607,Central Province
+SCH-0037,Hillcrest Academy Learning Center,2.705333,34.374152,Western Province
+SCH-0038,Lakeside Prep Institute,-3.238359,34.967904,River Region
+SCH-0039,Summit Primary Institute,2.7722,40.347735,Central Province
+SCH-0040,Hillcrest Day School,4.220966,40.910936,Western Province
+SCH-0041,Pinecrest Academy Institute,-0.167774,40.417203,Northern Province
+SCH-0042,Pinecrest Academy School,4.36778,35.621624,River Region
+SCH-0043,Meadow Academy Institute,-3.106829,35.873663,Northern Province
+SCH-0044,Stonebridge Day School,2.23178,33.957322,River Region
+SCH-0045,Eastwood Prep Campus,-3.988084,37.562628,Eastern Province
+SCH-0046,Oakwood Prep School,1.576913,35.381631,Central Province
+SCH-0047,Stonebridge Secondary School,1.074434,36.853799,Coastal Region
+SCH-0048,Valley Secondary Learning Center,-2.351826,36.666287,Southern Province
+SCH-0049,Northgate Community School,-4.416161,38.469274,Central Province
+SCH-0050,Oakwood Prep Campus,0.052962,34.559653,Coastal Region
+SCH-0051,Oakwood Secondary Learning Center,-1.935113,37.005477,Southern Province
+SCH-0052,Willow Day School,1.510769,37.936818,Central Province
+SCH-0053,Cedar Community School,3.507414,39.439333,Eastern Province
+SCH-0054,Valley Community Campus,1.95851,35.128778,Southern Province
+SCH-0055,Eastwood Academy Learning Center,3.648028,40.26883,Central Province
+SCH-0056,Ashford Academy Learning Center,-4.103219,36.168452,Eastern Province
+SCH-0057,Ashford Community Campus,2.171078,37.913443,Highland Region
+SCH-0058,Clearwater Primary School,-3.822805,40.564851,Eastern Province
+SCH-0059,Clearwater Primary Learning Center,0.742586,34.68475,Eastern Province
+SCH-0060,Hillcrest Community Learning Center,3.590833,39.868978,Northern Province
+SCH-0061,Fairview Secondary Campus,1.502401,36.329429,Highland Region
+SCH-0062,Willow Day Campus,3.831874,35.393899,Eastern Province
+SCH-0063,Foxglove Secondary Institute,-4.276923,39.392516,Coastal Region
+SCH-0064,Foxglove Academy Campus,-2.098749,39.798996,Central Province
+SCH-0065,Greenfield Primary Institute,-2.498097,40.032693,River Region
+SCH-0066,Fairview Community Campus,-2.493688,38.780265,Highland Region
+SCH-0067,Brookside Community School,4.202002,35.733,Highland Region
+SCH-0068,Brighton Prep Learning Center,3.953134,34.422734,Southern Province
+SCH-0069,Pinecrest Prep Learning Center,-4.155685,38.27257,Coastal Region
+SCH-0070,Dunham Community Institute,0.95588,37.591384,Highland Region
+SCH-0071,Stonebridge Secondary Learning Center,-4.100521,36.98846,Western Province
+SCH-0072,Fairview Academy School,4.03987,40.866167,Coastal Region
+SCH-0073,Brighton Primary Learning Center,0.064103,38.835143,Coastal Region
+SCH-0074,Greenfield Day Learning Center,0.489712,35.034721,Highland Region
+SCH-0075,Brighton Day Campus,1.039634,35.907599,Northern Province
+SCH-0076,Meadow Community Campus,-0.631007,38.139878,Coastal Region
+SCH-0077,Northgate Academy Institute,1.580645,37.589392,Eastern Province
+SCH-0078,Brighton Primary Learning Center,0.139068,38.563527,Coastal Region
+SCH-0079,Oakwood Secondary Learning Center,-2.478234,35.093039,Northern Province
+SCH-0080,Hillcrest Secondary Institute,1.001466,39.647915,River Region
+SCH-0081,Westbrook Day Campus,1.965113,36.571828,Highland Region
+SCH-0082,Summit Secondary School,3.533938,40.383525,Central Province
+SCH-0083,Elmwood Academy Campus,-2.91702,41.163728,River Region
+SCH-0084,Hillcrest Prep Campus,3.75723,34.470869,Eastern Province
+SCH-0085,Foxglove Academy Learning Center,4.050356,40.631407,Highland Region
+SCH-0086,Glenwood Prep Institute,3.574873,39.449244,River Region
+SCH-0087,Northgate Community Campus,3.058766,35.718491,River Region
+SCH-0088,Ashford Secondary Learning Center,-0.541147,39.208359,Western Province
+SCH-0089,Valley Community Learning Center,3.537241,34.144621,Eastern Province
+SCH-0090,Summit Academy Campus,1.857772,34.013831,Highland Region
+SCH-0091,Brookside Prep Institute,-0.758032,35.154675,Highland Region
+SCH-0092,Greenfield Prep School,3.210588,39.624757,Highland Region
+SCH-0093,Southridge Primary Learning Center,-1.812486,36.619893,Highland Region
+SCH-0094,Clearwater Day Campus,-0.105935,35.683482,River Region
+SCH-0095,Riverside Academy Learning Center,1.519863,39.885139,Eastern Province
+SCH-0096,Glenwood Academy Campus,4.326498,37.772989,Highland Region
+SCH-0097,Stonebridge Prep School,-3.744473,36.928902,River Region
+SCH-0098,Pinecrest Primary Learning Center,-1.088065,35.193282,Coastal Region
+SCH-0099,Brookside Academy Learning Center,2.268088,40.155394,Southern Province
+SCH-0100,Glenwood Primary Institute,-4.32555,37.815352,Coastal Region
+SCH-0101,Summit Day School,2.531097,38.714037,Northern Province
+SCH-0102,Summit Secondary School,1.092021,35.40836,River Region
+SCH-0103,Brighton Primary Campus,-0.314694,35.54995,Coastal Region
+SCH-0104,Pinecrest Prep School,2.500127,34.810126,Southern Province
+SCH-0105,Maple Prep School,3.859985,38.106374,Highland Region
+SCH-0106,Greenfield Day Campus,-3.816032,39.024915,Western Province
+SCH-0107,Maple Day Learning Center,3.152639,38.303293,Central Province
+SCH-0108,Foxglove Prep School,-1.375166,36.927024,Coastal Region
+SCH-0109,Oakwood Prep Learning Center,-4.386131,36.86047,River Region
+SCH-0110,Maple Academy Learning Center,1.220266,40.129658,Eastern Province
+SCH-0111,Westbrook Secondary Learning Center,1.043211,40.856941,River Region
+SCH-0112,Northgate Academy Learning Center,-1.599259,35.463961,Central Province
+SCH-0113,Valley Academy Campus,2.254287,38.058797,Highland Region
+SCH-0114,Brookside Primary Institute,3.158576,34.954719,Western Province
+SCH-0115,Fairview Community Learning Center,-1.983074,38.26924,Southern Province
+SCH-0116,Clearwater Primary Campus,-3.729483,39.260597,River Region
+SCH-0117,Clearwater Secondary Institute,1.313126,37.426571,Northern Province
+SCH-0118,Oakwood Community Campus,-0.86039,35.446441,Coastal Region
+SCH-0119,Southridge Prep Learning Center,-0.670466,39.467483,Coastal Region
+SCH-0120,Fairview Day Institute,-2.061752,35.511229,Central Province
+SCH-0121,Dunham Secondary Learning Center,-3.424007,37.786912,Eastern Province
+SCH-0122,Lakeside Secondary Institute,-2.011503,38.216695,Southern Province
+SCH-0123,Maple Secondary Learning Center,-2.452652,34.935532,Northern Province
+SCH-0124,Camden Prep Campus,-2.031198,41.294359,Southern Province
+SCH-0125,Camden Secondary Institute,-3.576711,33.598123,Southern Province
+SCH-0126,Southridge Academy Institute,-1.433647,41.223981,Southern Province
+SCH-0127,Harbor Academy School,2.899041,36.70566,Central Province
+SCH-0128,Stonebridge Day School,-3.134457,39.989137,Southern Province
+SCH-0129,Oakwood Secondary School,0.522657,36.829392,Western Province
+SCH-0130,Elmwood Prep Institute,-0.44537,37.041768,Highland Region
+SCH-0131,Meadow Prep School,0.986678,39.420714,Western Province
+SCH-0132,Ashford Secondary Learning Center,1.443853,34.756457,Eastern Province
+SCH-0133,Clearwater Primary Campus,-4.475918,37.10403,River Region
+SCH-0134,Meadow Primary Campus,-1.907056,35.761747,River Region
+SCH-0135,Oakwood Day Campus,3.815199,39.802624,Western Province
+SCH-0136,Westbrook Primary Campus,1.328713,40.767292,Eastern Province
+SCH-0137,Oakwood Primary Campus,2.633657,38.260352,Southern Province
+SCH-0138,Northgate Primary Institute,1.698102,39.097869,Southern Province
+SCH-0139,Eastwood Prep Institute,-0.56017,38.284293,Highland Region
+SCH-0140,Dunham Community Learning Center,-4.267216,35.331395,Northern Province
+SCH-0141,Elmwood Day Learning Center,0.686223,39.604872,Eastern Province
+SCH-0142,Southridge Prep Institute,3.744655,34.951913,Highland Region
+SCH-0143,Ashford Academy School,-0.269906,36.766785,Coastal Region
+SCH-0144,Brighton Primary Campus,-1.531767,39.049389,Southern Province
+SCH-0145,Brighton Academy School,-0.406567,36.016137,Coastal Region
+SCH-0146,Maple Academy School,1.418943,37.840749,Highland Region
+SCH-0147,Hillcrest Secondary Learning Center,1.103705,37.487945,River Region
+SCH-0148,Elmwood Primary Campus,-2.096494,34.548106,Southern Province
+SCH-0149,Northgate Day Institute,-3.407165,41.285175,Western Province
+SCH-0150,Camden Secondary Learning Center,0.457551,37.918011,Central Province
+SCH-0151,Summit Primary Institute,4.023547,38.681678,Eastern Province
+SCH-0152,Southridge Day Learning Center,0.079848,35.687399,River Region
+SCH-0153,Southridge Secondary Institute,0.461386,36.568688,Eastern Province
+SCH-0154,Harbor Primary Learning Center,2.454076,40.335299,Coastal Region
+SCH-0155,Foxglove Prep Learning Center,2.884945,35.762712,Southern Province
+SCH-0156,Glenwood Prep Institute,3.287345,37.072379,River Region
+SCH-0157,Fairview Community Institute,-0.401898,36.074219,Western Province
+SCH-0158,Camden Secondary Institute,-2.397938,39.704356,Northern Province
+SCH-0159,Brookside Day Institute,1.847051,39.991271,Highland Region
+SCH-0160,Brighton Day Campus,-0.042042,33.796157,Coastal Region
+SCH-0161,Harbor Primary Institute,-3.602595,40.783533,Northern Province
+SCH-0162,Dunham Secondary Institute,3.338397,41.259654,Central Province
+SCH-0163,Southridge Community Learning Center,1.109335,36.679867,Central Province
+SCH-0164,Harbor Community Institute,4.087256,38.514393,River Region
+SCH-0165,Harbor Prep School,1.057135,35.378162,Southern Province
+SCH-0166,Summit Day School,-0.594257,34.287545,Central Province
+SCH-0167,Northgate Secondary Learning Center,3.630817,33.867928,Northern Province
+SCH-0168,Meadow Community Learning Center,-0.623819,35.453579,Highland Region
+SCH-0169,Stonebridge Day Campus,-2.970147,34.131747,Highland Region
+SCH-0170,Willow Day Campus,-0.020995,38.165257,Western Province
+SCH-0171,Northgate Day Learning Center,-0.363866,38.834726,River Region
+SCH-0172,Meadow Day Campus,-3.835243,41.061885,Southern Province
+SCH-0173,Ashford Academy Learning Center,-0.388478,35.916973,Highland Region
+SCH-0174,Harbor Academy School,-2.365149,38.075382,Southern Province
+SCH-0175,Camden Community School,4.3015,38.765839,Southern Province
+SCH-0176,Riverside Prep School,3.695553,39.461377,Southern Province
+SCH-0177,Elmwood Secondary Learning Center,-2.528959,35.021056,Southern Province
+SCH-0178,Brighton Day Campus,1.154233,40.72723,Northern Province
+SCH-0179,Meadow Academy School,0.716164,39.358878,Central Province
+SCH-0180,Meadow Community Institute,-2.919239,34.557278,Coastal Region
+SCH-0181,Eastwood Prep Learning Center,2.974254,35.555761,River Region
+SCH-0182,Foxglove Community Learning Center,2.738093,37.246651,Central Province
+SCH-0183,Cedar Secondary Institute,4.205428,39.936701,Coastal Region
+SCH-0184,Oakwood Academy School,-2.119873,34.48871,Coastal Region
+SCH-0185,Brighton Day Learning Center,0.761041,40.079338,Coastal Region
+SCH-0186,Maple Day Campus,-0.256708,38.456375,Coastal Region
+SCH-0187,Willow Secondary School,1.218635,37.21414,Southern Province
+SCH-0188,Ashford Academy School,-3.242007,41.070092,Southern Province
+SCH-0189,Southridge Primary School,-2.3868,37.800373,Highland Region
+SCH-0190,Northgate Community Institute,0.786063,39.312793,Highland Region
+SCH-0191,Ashford Primary Institute,1.04087,41.012425,Southern Province
+SCH-0192,Hillcrest Day Learning Center,-2.544573,37.057567,Western Province
+SCH-0193,Harbor Community School,4.328349,36.43868,Coastal Region
+SCH-0194,Hillcrest Academy Learning Center,-2.791723,34.477278,River Region
+SCH-0195,Oakwood Day Campus,1.27534,38.277168,Northern Province
+SCH-0196,Hillcrest Community Campus,4.399388,39.795825,Western Province
+SCH-0197,Oakwood Prep Campus,0.777448,40.004424,Western Province
+SCH-0198,Brookside Secondary School,-2.004526,41.372225,Eastern Province
+SCH-0199,Clearwater Community Campus,-3.510663,40.431583,Eastern Province
+SCH-0200,Riverside Community Campus,0.799676,33.626249,Southern Province

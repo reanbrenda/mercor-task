@@ -1,0 +1,24 @@
+### Health check
+GET http://127.0.0.1:8000/health
+
+### Upload valid partner batch (includes admin1)
+POST http://127.0.0.1:8000/upload
+Content-Type: multipart/form-data; boundary=----Boundary
+
+------Boundary
+Content-Disposition: form-data; name="file"; filename="schools_partner_batch_01.csv"
+Content-Type: text/csv
+
+< ./data/schools_partner_batch_01.csv
+------Boundary--
+
+### Upload bad partner batch (admin1 column removed)
+POST http://127.0.0.1:8000/upload
+Content-Type: multipart/form-data; boundary=----Boundary
+
+------Boundary
+Content-Disposition: form-data; name="file"; filename="schools_partner_batch_01_bad.csv"
+Content-Type: text/csv
+
+< ./data/schools_partner_batch_01_bad.csv
+------Boundary--

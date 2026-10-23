@@ -1,0 +1,201 @@
+school_id,name,lat,lon
+SCH-0001,Ashford Primary School,2.173954,35.459135
+SCH-0002,Dunham Primary School,0.814433,33.754261
+SCH-0003,Lakeside Secondary School,0.551206,39.228157
+SCH-0004,Summit Academy Learning Center,2.784874,33.55199
+SCH-0005,Camden Academy Learning Center,-1.999158,35.22251
+SCH-0006,Maple Primary Institute,-3.629553,40.279955
+SCH-0007,Foxglove Primary Institute,0.326053,41.284926
+SCH-0008,Oakwood Prep Learning Center,2.964642,38.448158
+SCH-0009,Stonebridge Secondary School,-4.087581,35.323186
+SCH-0010,Oakwood Secondary School,-1.078864,37.127282
+SCH-0011,Pinecrest Community Learning Center,-2.614437,35.635823
+SCH-0012,Willow Day Campus,0.307259,35.458487
+SCH-0013,Greenfield Community Campus,1.661528,40.242815
+SCH-0014,Summit Primary Learning Center,-0.889517,34.029509
+SCH-0015,Lakeside Day Institute,-0.939313,40.816381
+SCH-0016,Cedar Community Campus,-2.280352,37.990945
+SCH-0017,Dunham Prep Institute,3.580406,36.695204
+SCH-0018,Cedar Prep Institute,-3.681815,33.876931
+SCH-0019,Cedar Day Campus,2.628714,36.87728
+SCH-0020,Greenfield Academy Institute,0.262029,41.268627
+SCH-0021,Brighton Day School,1.635393,37.795763
+SCH-0022,Elmwood Day Learning Center,-3.49603,36.978122
+SCH-0023,Riverside Day Learning Center,4.246993,39.595698
+SCH-0024,Harbor Day Learning Center,3.075024,37.561303
+SCH-0025,Cedar Community Campus,0.354411,39.729012
+SCH-0026,Willow Community Institute,-4.324709,40.932789
+SCH-0027,Summit Primary Campus,3.402086,41.075596
+SCH-0028,Dunham Academy School,4.30186,37.761649
+SCH-0029,Cedar Day Institute,4.021638,34.821016
+SCH-0030,Lakeside Prep Campus,1.916541,36.691938
+SCH-0031,Northgate Prep Institute,-3.410962,35.297579
+SCH-0032,Riverside Prep Campus,0.795961,33.557527
+SCH-0033,Summit Primary School,3.236719,34.066859
+SCH-0034,Valley Day Institute,-2.571869,34.558495
+SCH-0035,Summit Academy Institute,-2.786311,34.275447
+SCH-0036,Fairview Academy Institute,-0.296778,39.332607
+SCH-0037,Hillcrest Academy Learning Center,2.705333,34.374152
+SCH-0038,Lakeside Prep Institute,-3.238359,34.967904
+SCH-0039,Summit Primary Institute,2.7722,40.347735
+SCH-0040,Hillcrest Day School,4.220966,40.910936
+SCH-0041,Pinecrest Academy Institute,-0.167774,40.417203
+SCH-0042,Pinecrest Academy School,4.36778,35.621624
+SCH-0043,Meadow Academy Institute,-3.106829,35.873663
+SCH-0044,Stonebridge Day School,2.23178,33.957322
+SCH-0045,Eastwood Prep Campus,-3.988084,37.562628
+SCH-0046,Oakwood Prep School,1.576913,35.381631
+SCH-0047,Stonebridge Secondary School,1.074434,36.853799
+SCH-0048,Valley Secondary Learning Center,-2.351826,36.666287
+SCH-0049,Northgate Community School,-4.416161,38.469274
+SCH-0050,Oakwood Prep Campus,0.052962,34.559653
+SCH-0051,Oakwood Secondary Learning Center,-1.935113,37.005477
+SCH-0052,Willow Day School,1.510769,37.936818
+SCH-0053,Cedar Community School,3.507414,39.439333
+SCH-0054,Valley Community Campus,1.95851,35.128778
+SCH-0055,Eastwood Academy Learning Center,3.648028,40.26883
+SCH-0056,Ashford Academy Learning Center,-4.103219,36.168452
+SCH-0057,Ashford Community Campus,2.171078,37.913443
+SCH-0058,Clearwater Primary School,-3.822805,40.564851
+SCH-0059,Clearwater Primary Learning Center,0.742586,34.68475
+SCH-0060,Hillcrest Community Learning Center,3.590833,39.868978
+SCH-0061,Fairview Secondary Campus,1.502401,36.329429
+SCH-0062,Willow Day Campus,3.831874,35.393899
+SCH-0063,Foxglove Secondary Institute,-4.276923,39.392516
+SCH-0064,Foxglove Academy Campus,-2.098749,39.798996
+SCH-0065,Greenfield Primary Institute,-2.498097,40.032693
+SCH-0066,Fairview Community Campus,-2.493688,38.780265
+SCH-0067,Brookside Community School,4.202002,35.733
+SCH-0068,Brighton Prep Learning Center,3.953134,34.422734
+SCH-0069,Pinecrest Prep Learning Center,-4.155685,38.27257
+SCH-0070,Dunham Community Institute,0.95588,37.591384
+SCH-0071,Stonebridge Secondary Learning Center,-4.100521,36.98846
+SCH-0072,Fairview Academy School,4.03987,40.866167
+SCH-0073,Brighton Primary Learning Center,0.064103,38.835143
+SCH-0074,Greenfield Day Learning Center,0.489712,35.034721
+SCH-0075,Brighton Day Campus,1.039634,35.907599
+SCH-0076,Meadow Community Campus,-0.631007,38.139878
+SCH-0077,Northgate Academy Institute,1.580645,37.589392
+SCH-0078,Brighton Primary Learning Center,0.139068,38.563527
+SCH-0079,Oakwood Secondary Learning Center,-2.478234,35.093039
+SCH-0080,Hillcrest Secondary Institute,1.001466,39.647915
+SCH-0081,Westbrook Day Campus,1.965113,36.571828
+SCH-0082,Summit Secondary School,3.533938,40.383525
+SCH-0083,Elmwood Academy Campus,-2.91702,41.163728
+SCH-0084,Hillcrest Prep Campus,3.75723,34.470869
+SCH-0085,Foxglove Academy Learning Center,4.050356,40.631407
+SCH-0086,Glenwood Prep Institute,3.574873,39.449244
+SCH-0087,Northgate Community Campus,3.058766,35.718491
+SCH-0088,Ashford Secondary Learning Center,-0.541147,39.208359
+SCH-0089,Valley Community Learning Center,3.537241,34.144621
+SCH-0090,Summit Academy Campus,1.857772,34.013831
+SCH-0091,Brookside Prep Institute,-0.758032,35.154675
+SCH-0092,Greenfield Prep School,3.210588,39.624757
+SCH-0093,Southridge Primary Learning Center,-1.812486,36.619893
+SCH-0094,Clearwater Day Campus,-0.105935,35.683482
+SCH-0095,Riverside Academy Learning Center,1.519863,39.885139
+SCH-0096,Glenwood Academy Campus,4.326498,37.772989
+SCH-0097,Stonebridge Prep School,-3.744473,36.928902
+SCH-0098,Pinecrest Primary Learning Center,-1.088065,35.193282
+SCH-0099,Brookside Academy Learning Center,2.268088,40.155394
+SCH-0100,Glenwood Primary Institute,-4.32555,37.815352
+SCH-0101,Summit Day School,2.531097,38.714037
+SCH-0102,Summit Secondary School,1.092021,35.40836
+SCH-0103,Brighton Primary Campus,-0.314694,35.54995
+SCH-0104,Pinecrest Prep School,2.500127,34.810126
+SCH-0105,Maple Prep School,3.859985,38.106374
+SCH-0106,Greenfield Day Campus,-3.816032,39.024915
+SCH-0107,Maple Day Learning Center,3.152639,38.303293
+SCH-0108,Foxglove Prep School,-1.375166,36.927024
+SCH-0109,Oakwood Prep Learning Center,-4.386131,36.86047
+SCH-0110,Maple Academy Learning Center,1.220266,40.129658
+SCH-0111,Westbrook Secondary Learning Center,1.043211,40.856941
+SCH-0112,Northgate Academy Learning Center,-1.599259,35.463961
+SCH-0113,Valley Academy Campus,2.254287,38.058797
+SCH-0114,Brookside Primary Institute,3.158576,34.954719
+SCH-0115,Fairview Community Learning Center,-1.983074,38.26924
+SCH-0116,Clearwater Primary Campus,-3.729483,39.260597
+SCH-0117,Clearwater Secondary Institute,1.313126,37.426571
+SCH-0118,Oakwood Community Campus,-0.86039,35.446441
+SCH-0119,Southridge Prep Learning Center,-0.670466,39.467483
+SCH-0120,Fairview Day Institute,-2.061752,35.511229
+SCH-0121,Dunham Secondary Learning Center,-3.424007,37.786912
+SCH-0122,Lakeside Secondary Institute,-2.011503,38.216695
+SCH-0123,Maple Secondary Learning Center,-2.452652,34.935532
+SCH-0124,Camden Prep Campus,-2.031198,41.294359
+SCH-0125,Camden Secondary Institute,-3.576711,33.598123
+SCH-0126,Southridge Academy Institute,-1.433647,41.223981
+SCH-0127,Harbor Academy School,2.899041,36.70566
+SCH-0128,Stonebridge Day School,-3.134457,39.989137
+SCH-0129,Oakwood Secondary School,0.522657,36.829392
+SCH-0130,Elmwood Prep Institute,-0.44537,37.041768
+SCH-0131,Meadow Prep School,0.986678,39.420714
+SCH-0132,Ashford Secondary Learning Center,1.443853,34.756457
+SCH-0133,Clearwater Primary Campus,-4.475918,37.10403
+SCH-0134,Meadow Primary Campus,-1.907056,35.761747
+SCH-0135,Oakwood Day Campus,3.815199,39.802624
+SCH-0136,Westbrook Primary Campus,1.328713,40.767292
+SCH-0137,Oakwood Primary Campus,2.633657,38.260352
+SCH-0138,Northgate Primary Institute,1.698102,39.097869
+SCH-0139,Eastwood Prep Institute,-0.56017,38.284293
+SCH-0140,Dunham Community Learning Center,-4.267216,35.331395
+SCH-0141,Elmwood Day Learning Center,0.686223,39.604872
+SCH-0142,Southridge Prep Institute,3.744655,34.951913
+SCH-0143,Ashford Academy School,-0.269906,36.766785
+SCH-0144,Brighton Primary Campus,-1.531767,39.049389
+SCH-0145,Brighton Academy School,-0.406567,36.016137
+SCH-0146,Maple Academy School,1.418943,37.840749
+SCH-0147,Hillcrest Secondary Learning Center,1.103705,37.487945
+SCH-0148,Elmwood Primary Campus,-2.096494,34.548106
+SCH-0149,Northgate Day Institute,-3.407165,41.285175
+SCH-0150,Camden Secondary Learning Center,0.457551,37.918011
+SCH-0151,Summit Primary Institute,4.023547,38.681678
+SCH-0152,Southridge Day Learning Center,0.079848,35.687399
+SCH-0153,Southridge Secondary Institute,0.461386,36.568688
+SCH-0154,Harbor Primary Learning Center,2.454076,40.335299
+SCH-0155,Foxglove Prep Learning Center,2.884945,35.762712
+SCH-0156,Glenwood Prep Institute,3.287345,37.072379
+SCH-0157,Fairview Community Institute,-0.401898,36.074219
+SCH-0158,Camden Secondary Institute,-2.397938,39.704356
+SCH-0159,Brookside Day Institute,1.847051,39.991271
+SCH-0160,Brighton Day Campus,-0.042042,33.796157
+SCH-0161,Harbor Primary Institute,-3.602595,40.783533
+SCH-0162,Dunham Secondary Institute,3.338397,41.259654
+SCH-0163,Southridge Community Learning Center,1.109335,36.679867
+SCH-0164,Harbor Community Institute,4.087256,38.514393
+SCH-0165,Harbor Prep School,1.057135,35.378162
+SCH-0166,Summit Day School,-0.594257,34.287545
+SCH-0167,Northgate Secondary Learning Center,3.630817,33.867928
+SCH-0168,Meadow Community Learning Center,-0.623819,35.453579
+SCH-0169,Stonebridge Day Campus,-2.970147,34.131747
+SCH-0170,Willow Day Campus,-0.020995,38.165257
+SCH-0171,Northgate Day Learning Center,-0.363866,38.834726
+SCH-0172,Meadow Day Campus,-3.835243,41.061885
+SCH-0173,Ashford Academy Learning Center,-0.388478,35.916973
+SCH-0174,Harbor Academy School,-2.365149,38.075382
+SCH-0175,Camden Community School,4.3015,38.765839
+SCH-0176,Riverside Prep School,3.695553,39.461377
+SCH-0177,Elmwood Secondary Learning Center,-2.528959,35.021056
+SCH-0178,Brighton Day Campus,1.154233,40.72723
+SCH-0179,Meadow Academy School,0.716164,39.358878
+SCH-0180,Meadow Community Institute,-2.919239,34.557278
+SCH-0181,Eastwood Prep Learning Center,2.974254,35.555761
+SCH-0182,Foxglove Community Learning Center,2.738093,37.246651
+SCH-0183,Cedar Secondary Institute,4.205428,39.936701
+SCH-0184,Oakwood Academy School,-2.119873,34.48871
+SCH-0185,Brighton Day Learning Center,0.761041,40.079338
+SCH-0186,Maple Day Campus,-0.256708,38.456375
+SCH-0187,Willow Secondary School,1.218635,37.21414
+SCH-0188,Ashford Academy School,-3.242007,41.070092
+SCH-0189,Southridge Primary School,-2.3868,37.800373
+SCH-0190,Northgate Community Institute,0.786063,39.312793
+SCH-0191,Ashford Primary Institute,1.04087,41.012425
+SCH-0192,Hillcrest Day Learning Center,-2.544573,37.057567
+SCH-0193,Harbor Community School,4.328349,36.43868
+SCH-0194,Hillcrest Academy Learning Center,-2.791723,34.477278
+SCH-0195,Oakwood Day Campus,1.27534,38.277168
+SCH-0196,Hillcrest Community Campus,4.399388,39.795825
+SCH-0197,Oakwood Prep Campus,0.777448,40.004424
+SCH-0198,Brookside Secondary School,-2.004526,41.372225
+SCH-0199,Clearwater Community Campus,-3.510663,40.431583
+SCH-0200,Riverside Community Campus,0.799676,33.626249

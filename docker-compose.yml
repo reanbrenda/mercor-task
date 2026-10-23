@@ -1,0 +1,16 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: ingestion_local_pg
+    environment:
+      POSTGRES_USER: ingestion
+      POSTGRES_PASSWORD: ingestion
+      POSTGRES_DB: ingestion_local
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./sql/ddl.sql:/docker-entrypoint-initdb.d/01-ddl.sql:ro
+
+volumes:
+  pgdata:
